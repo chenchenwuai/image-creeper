@@ -1,7 +1,16 @@
-/node_modules
-.tern-project
-.eslintrc
-.vs*
+.DS_Store
+node_modules
 test
-/.vs
 /dist
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.local
+
+package-lock.json
+yarn.lock

@@ -22,5 +22,8 @@
     "mkdirp": "^1.0.3",
     "request": "^2.88.2",
     "user-home": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
   }
 }
