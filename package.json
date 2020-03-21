@@ -1,0 +1,26 @@
+{
+  "name": "image-worm",
+  "version": "0.0.1",
+  "description": "scrapy image",
+  "main": "creep.js",
+  "preferGlobal": true,
+  "repository": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "bin": {
+    "creep": "creep.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "cheerio": "^1.0.0-rc.3",
+    "colors": "^1.4.0",
+    "commander": "^5.0.0",
+    "lodash": "^4.17.15",
+    "mkdirp": "^1.0.3",
+    "request": "^2.88.2",
+    "user-home": "^2.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+/node_modules
+.tern-project
+.eslintrc
+
+test
+/.vs
+/dist
